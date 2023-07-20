@@ -1,5 +1,5 @@
 package main
 
 func main() {
-	println("Hello World Poly2!")
+	println("Hello World Poly2.!")
 }
